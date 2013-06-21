@@ -6,3 +6,5 @@ Not Responsible for anything that happens to the users game or account when usin
 Place files into C:/APB/APBGame/Config
 
 
+
+Note: /fps will still show that you have low fps, however gameplay will be "smoother" and it should NOT stutter or lag as much.
