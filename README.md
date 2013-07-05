@@ -23,7 +23,7 @@ Edits:
 7/2/2013 - Code changes made by USPStyle to make it compatable with the 1.2 patch
 
 
-7/5/2013 - Deacreased some lodbias' and maxlod's to decrease lag
+7/5/2013 - Decreased some lodbias' and maxlod's to decrease lag
 
 
 
